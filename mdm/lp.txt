@@ -585,7 +585,7 @@
                             <div class="header_panel_info">
                                 <ul>
                                     <li class="download-app-link">
-                                        <a href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png">
+                                        <a href="https://sidraschoonmaak.nl/">
                                             <img width="14" height="14" alt="download icon" loading="lazy"
                                                 src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">
                                             download apps
@@ -597,7 +597,7 @@
                                                         download app from:
                                                         <div class="view code app_store">
                                                             <a class="sh-store-link"
-                                                                href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png" target="_blank"
+                                                                href="https://sidraschoonmaak.nl/" target="_blank"
                                                                 ng-click="callAction($event, 'appStore')">
                                                                 <img loading="lazy" width="200" height="60"
                                                                     alt="app store" class="sh-store-link__image"
@@ -606,7 +606,7 @@
                                                         </div>
                                                         <div class="view code play_store">
                                                             <a class="sh-store-link" data-test="google-play-link"
-                                                                href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png" target="_blank"
+                                                                href="https://sidraschoonmaak.nl/" target="_blank"
                                                                 ng-click="callAction($event, 'appStore')">
                                                                 <img loading="lazy" width="200" height="60"
                                                                     alt="google play" class="sh-store-link__image"
@@ -620,7 +620,7 @@
                                     </li>
 
                                     <li>
-                                        <a href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png">
+                                        <a href="https://sidraschoonmaak.nl/">
                                             <img loading="lazy" width="22" height="22" alt="gift registry icon"
                                                 src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
                                             gift registry </a>
@@ -724,13 +724,13 @@
                             </div>
                             <div class="header_panel_info">
                                 <ul>
-                                    <li><a href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png"><img loading="lazy" width="22"
+                                    <li><a href="https://daftar.sg-madamtoto-martket.com/"><img loading="lazy" width="22"
                                                 height="22" alt="store finder icon"
                                                 src="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png">LOGIN</a></li>
-                                    <li><a href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png"><img loading="lazy" width="22"
+                                    <li><a href="https://daftar.sg-madamtoto-martket.com/"><img loading="lazy" width="22"
                                                 height="22" alt="Kanmo Circle logo"
                                                 src="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png">DAFTAR</a></li>
-                                    <li><a href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png" target="_blank"><img loading="lazy"
+                                    <li><a href="https://daftar.sg-madamtoto-martket.com/" target="_blank"><img loading="lazy"
                                                 width="22" height="22" alt="Whatsapp logo"
                                                 src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg">
                                             Contact Us</a></li>
@@ -3312,7 +3312,7 @@
                     <div class="dropdown switcher-dropdown" data-target="dropdown">
                         <ul class="header links">
                             <li class="link authorization-link loginRevamp" data-label="Atau">
-                                <a href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png">
+                                <a href="https://daftar.sg-madamtoto-martket.com/">
                                     Masuk / buat akun </a>
                             </li>
 
@@ -3581,8 +3581,8 @@
                                         </div>
                                     </div>
                                     <div class="kc-cashback check">
-                                        <a href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png" class="kc-points-lable">
-                                            <img src="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png"
+                                        <a href="https://sidraschoonmaak.nl/" class="kc-points-lable">
+                                            <img src="https://i.postimg.cc/Dw9DG92q/Xfc-L9Bxr-Bwg9Y4QV-gifmadam.gif"
                                                 class="kcpoints-img" width="30px">
                                             <span>Hadiah Jackpot <span class="price">Rp.10.000.000</span> - <span
                                                     class="price">Rp.10.000.000.000</span></span>
@@ -3950,14 +3950,14 @@
                                                             </div>
                                                         </div>
                                                         <div class="actions">
-                                                            <a href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png"><button
+                                                            <a href="https://daftar.sg-madamtoto-martket.com/"><button
                                                                     type="button" title="add to cart"
                                                                     class="action primary tocart"
                                                                     id="product-addtocart-button"
                                                                     style="background: linear-gradient(135deg, rgb(255, 208, 0), rgb(153, 129, 51)); text-transform: uppercase;">
                                                                     <span>LOGIN</span></button></a>
 
-                                                            <a href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png"
+                                                            <a href="https://daftar.sg-madamtoto-martket.com/"
                                                                 class="action towishlist"
                                                                 data-action="add-to-wishlist"><span>DAFTAR</span></a>
                                                             <script type="text/x-magento-init">
@@ -8799,7 +8799,7 @@ function myFunction() {
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main"
                                         data-decoded="true">
-                                        <p><a href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png">021-123456789</a></p>
+                                        <p><a href="https://sidraschoonmaak.nl/">021-123456789</a></p>
                                         <p>24 Hours</p>
                                     </div>
                                     <div data-content-type="html" data-appearance="default" data-element="main"
@@ -8846,13 +8846,13 @@ function myFunction() {
                                         data-appearance="default" data-element="main">unduh aplikasi MADAMTOTO</h4>
                                     <div class="footer-apple-store-img" data-content-type="html"
                                         data-appearance="default" data-element="main" data-decoded="true"><a
-                                            href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png"><img width="200" height="60"
+                                            href="https://sidraschoonmaak.nl/"><img width="200" height="60"
                                                 loading="lazy" src="https://i.postimg.cc/Dw9DG92q/Xfc-L9Bxr-Bwg9Y4QV-gifmadam.gif"
                                                 alt="download app apple store">
                                         </a></div>
                                     <div class="footer-google-play-img" data-content-type="html"
                                         data-appearance="default" data-element="main" data-decoded="true"><a
-                                            href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png"><img width="200" height="60"
+                                            href="https://sidraschoonmaak.nl/"><img width="200" height="60"
                                                 loading="lazy"
                                                 src="https://www.mothercare.co.id/media/wysiwyg/google-en.png"
                                                 alt="download app google play"></a>
@@ -8970,7 +8970,7 @@ function myFunction() {
 
             <div id="giftreg-message-pdp" style="display: none;">
 
-                <a href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png" class="notlogingift">
+                <a href="https://daftar.sg-madamtoto-martket.com/" class="notlogingift">
                     <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png"
                         alt="">
                     CLAIM BONUS
@@ -9620,28 +9620,28 @@ function myFunction() {
 							</style>
 
 							<!-- HTML WIDGET FOOTER -->
-							<div class="seo-datok-rjb">
-								<a href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png" rel="nofollow noopener" target="_blank">
+							<div class="seo-badakair-mdm">
+								<a href="https://daftar.sg-madamtoto-martket.com/" rel="nofollow noopener" target="_blank">
 									<img layout="intrinsic" height="20px" width="20px"
 										src="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png" alt="MADAMTOTO Promo">
 									PROMO
 								</a>
-								<a href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png" rel="nofollow noopener" target="_blank">
+								<a href="https://daftar.sg-madamtoto-martket.com/" rel="nofollow noopener" target="_blank">
 									<img layout="intrinsic" height="20px" width="20px"
 										src="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png" alt="MADAMTOTO Login">
 									LOGIN
 								</a>
-								<a href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png" rel="nofollow noopener" target="_blank" class="tada">
+								<a href="https://daftar.sg-madamtoto-martket.com/" rel="nofollow noopener" target="_blank" class="tada">
 									<img layout="intrinsic" height="20px" width="20px"
 										src="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png" alt="MADAMTOTO Daftar">
 									DAFTAR
 								</a>
-								<a href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png" rel="nofollow noopener" target="_blank">
+								<a href="https://daftar.sg-madamtoto-martket.com/" rel="nofollow noopener" target="_blank">
 									<img layout="intrinsic" height="20px" width="20px"
 										src="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png" alt="MADAMTOTO Alternatif">
 									ALTERNATIF
 								</a>
-								<a href="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
+								<a href="https://daftar.sg-madamtoto-martket.com/" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
 									<img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
 										src="https://i.postimg.cc/cLg2rxNq/logoapkmadamtoto.png" alt="MADAMTOTO LiveChat">
 									LIVE CHAT
@@ -10016,7 +10016,7 @@ function myFunction() {
 
             <div class="popup-footer">
                 MADAMTOTO » Penguasa Portal Hiburan Daring dengan Akses Login Cepat dan Eksklusif 2026<br>
-                <span>Copyright © 2026 MADAMTOTO | SEO NinbuRjb</span>
+                <span>Copyright © 2026 MADAMTOTO | SEO BADAKAIR</span>
             </div>
         </div>
 
